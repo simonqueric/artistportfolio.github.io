@@ -1,0 +1,15 @@
+title: A test website
+email: a@a.com
+baseurl: ""
+url: "artistportfolio.github.io"
+github_username: simonqueric
+
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+name: A test website
+
+exclude:
+ - tmp/
+ - vendor/
+ - Gemfile
+ - Gemfile.lock
